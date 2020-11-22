@@ -4,4 +4,4 @@ This project was a virtual internship for KPMG. The goal of the project was to u
 
 This project is still a work in progress, but the parts that are complete are the message to Sprocket Central's data team to clarify what had been received from the client. The visual dashboard of historic sales was also complete (see screenshot below):
 
-[alt_text]!(https://github.com/zachzazueta/KPMG_Internship/blob/master/SC-KPMG.PNG)
+![alt_text](https://github.com/zachzazueta/KPMG_Internship/blob/master/SC-KPMG.PNG)
