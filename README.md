@@ -6,4 +6,4 @@ This project is still a work in progress, but the parts that are complete are th
 
 ![alt_text](https://github.com/zachzazueta/KPMG_Internship/blob/master/SC-KPMG.PNG)
 
-I still plan to return to this project and go deeper on cluster analysis. I believe I can use what I have learned about the K-Prototypes method to better segment this largely categorical data set and provide the client with a breakdown of their higher-profit clientele.
+I still plan to return to this project and go deeper on cluster analysis. I will use the K-Prototypes method to better segment this largely categorical data set and provide the client with a breakdown of their higher-profit clientele.
